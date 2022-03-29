@@ -1,0 +1,1 @@
+{"version":3,"file":"index.css","mappings":";;;AAEC;EACC;AADF,C","sources":["webpack://text-box/./src/editor.scss"],"sourcesContent":[".wp-block-blocks-course-text-box {\r\n\r\n\t.text-box-title {\r\n\t\tmargin: 0;\r\n\t}\r\n}\r\n"],"names":[],"sourceRoot":""}
